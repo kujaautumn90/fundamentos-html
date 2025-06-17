@@ -1,0 +1,14 @@
+/* Selector por etiquetas */
+
+h1 {
+    color:blue
+}
+
+article p {
+    color:green
+}
+
+/* Selector por clase */
+#titulos {
+    color:red
+}
